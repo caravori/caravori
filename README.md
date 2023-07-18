@@ -1,6 +1,9 @@
 # Quem sou eu
 UNESP - SJRP - Ciência da Computação 4º ano - CACIC<br>Amo técnicas de intrusão e código seguro.<br>Membro do ACME team<br>
 
+# TryHackMe 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/caravori.png" alt="TryHackMe">
 
 ### Me contrata
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-zancheta-scavazini-abb986226/) 
@@ -12,8 +15,6 @@ UNESP - SJRP - Ciência da Computação 4º ano - CACIC<br>Amo técnicas de intr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Caravori&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caravori&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Meme Legal
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 ### Parabéns você é o visitante número
